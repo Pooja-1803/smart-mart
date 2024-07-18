@@ -1,0 +1,8 @@
+ 1 lays 20 1
+ 2 juice 50 4
+ 3 choco 100 20
+ 4 maggie 25 1
+ 5 jar 50 12
+ 7 bottle 60 10
+ 8 biriyani 300 20
+ 10 panipuri 50 5
